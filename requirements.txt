@@ -1,0 +1,12 @@
+gradio
+transformers
+torch
+sounddevice
+numpy
+scipy
+accelerate
+soundfile
+gtts
+pydub
+librosa
+ffmpeg
